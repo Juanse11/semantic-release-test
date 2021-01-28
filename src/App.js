@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <h1>Juan Estrada Vargas</h1>
+      <p>
+        Birthday: 12/11/98
+      </p>
     </div>
   );
 }
